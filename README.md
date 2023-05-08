@@ -70,7 +70,7 @@ run:
 
 ![image]()
 
-> #### **Lost Ones Page**
+> #### **Video Game Page**
 
 ![image]()
 
