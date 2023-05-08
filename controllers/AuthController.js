@@ -25,15 +25,15 @@ const Login = async (req, res) => {
 }
 
 const Register = async (req, res) => {
-  try {
-    const { username, password } = req.body
-    let passwordDigest = await middleware.hashPassword(password)
-    const user = await User.create({ username, passwordDigest })
-    res.send(user)
-  } catch (error) {
-    throw error
+    try {
+      const { username, password } = req.body
+      let passwordDigest = await middleware.hashPassword(password)
+      const user = await User.create({ username, passwordDigest })
+      res.send(user)
+    } catch (error) {
+      throw error
+    }
   }
-}
 
 const CheckSession = async (req, res) => {
   const { payload } = res.locals
