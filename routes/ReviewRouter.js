@@ -1,5 +1,5 @@
 const router = require('express').Router()
-const controller = require('../controller/ReviewController')
+const controller = require('../controllers/ReviewController')
 const middleware = require('../middleware')
 
 router.get('/', controller.GetAllReviews)

@@ -1,5 +1,5 @@
 const router = require('express').Router()
-const controller = require('../controller/ListingController')
+const controller = require('../controllers/ListingController')
 const middleware = require('../middleware')
 
 router.get('/', controller.GetAllListings)
