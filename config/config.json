@@ -1,5 +1,6 @@
 {
   "development": {
+<<<<<<< HEAD
     "username": "root",
     "password": null,
     "database": "database_development",
@@ -19,5 +20,20 @@
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
+=======
+    "database": "rt_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+>>>>>>> 8aab299e72fae4c0317718fb9951e6bfb67a0985
   }
 }
