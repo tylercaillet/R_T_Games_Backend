@@ -117,7 +117,7 @@ module.exports = {
         {
           title: 'Super Mario Odyssey',
           rating: '4.7 out of 5',
-          image: 'https://static.wikia.nocookie.net/logopedia/images/7/74/Super_Mario_Odyssey_Logo.png/revision/latest?cb=20170914192321',
+          image: 'https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5',
           description: "Super Mario Odyssey is a 2017 platform game developed and published by Nintendo for the Nintendo Switch.",
           year: '2017',
           createdAt: new Date(),
@@ -198,7 +198,7 @@ module.exports = {
         {
           title: 'The Elder Scrolls 4: Shivering Isles',
           rating: '8.5 out of 10',
-          image: 'https://static.wikia.nocookie.net/logopedia/images/1/1d/The_Elder_Scrolls_IV_-_Shivering_Isles.png/revision/latest?cb=20130301173237',
+          image: 'https://m.media-amazon.com/images/I/61wroo0UJZL.jpg',
           description: "The Elder Scrolls IV: Shivering Isles is the second expansion pack for the role-playing video game The Elder Scrolls IV: Oblivion. Announced on January 18, 2007, the expansion was developed, published, and released over the Xbox Live Marketplace by Bethesda Softworks; its retail release was co-published with 2K Games.",
           year: '2007',
           createdAt: new Date(),
@@ -243,7 +243,7 @@ module.exports = {
         {
           title: 'Tony Hawks Pro Skater 2',
           rating: '9.5 out of 10',
-          image: 'https://static.wikia.nocookie.net/logopedia/images/6/6d/THPS2_demo_logo.jpg/revision/latest/scale-to-width-down/451?cb=20130903140454',
+          image: 'https://assets-prd.ignimgs.com/2022/01/29/tony-hawk-pro-skater-2-button-edit-1643485674590.jpg',
           description: "Tony Hawk's Pro Skater 2 is a skateboarding video game developed by Neversoft and published by Activision. It is the second installment in the Tony Hawk's series of sports games and was released for the PlayStation in 2000, with subsequent ports to Microsoft Windows, Game Boy Color, and Dreamcast the same year. ",
           year: '2000',
           createdAt: new Date(),
@@ -306,7 +306,7 @@ module.exports = {
         {
           title: 'Tekken 3',
           rating: '9.1 out of 10',
-          image: 'https://hardcore-gamer.s3.amazonaws.com/uploads/2022/05/Tekken3Logo-1.jpg',
+          image: 'https://i.ytimg.com/vi/N3YAwyC5Wc0/maxresdefault.jpg',
           description: "An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen...Tekken 3. Some are fighting for revenge, some for honor, Ultimately, all are fighting for their lives and the fate of all mankind.",
           year: '1998',
           createdAt: new Date(),
@@ -405,7 +405,7 @@ module.exports = {
         {
           title: 'God of War: Ragnarok',
           rating: '7.9 out of 10',
-          image: 'https://www.charlieintel.com/wp-content/uploads/2021/09/GOW-Ragnarok-Date-trailers-story-weapons-platforms-FEATURED.jpg',
+          image: 'https://i.ytimg.com/vi/dIQGI36BxDE/maxresdefault.jpg',
           description: "The freezing winds of Fimbulwinter have come to Midgard, making survival for Kratos, Atreus, and Mimir in the Norse wilds even more challenging than before. Kratos, still bearing the knowledge of his past mistakes, wants to spare Atreus the bloody lessons he learned from his conflict with gods.",
           year: '2022',
           createdAt: new Date(),
@@ -450,7 +450,7 @@ module.exports = {
         {
           title: 'Tom Clancys Splinter Cell',
           rating: '8.6 out of 10',
-          image: 'https://static.wikia.nocookie.net/splintercell/images/a/ab/SplinterCellCover.jpg/revision/latest?cb=20131020102635',
+          image: 'https://cdn.akamai.steamstatic.com/steam/apps/13560/header.jpg?t=1680011054',
           description: "Infiltrate terrorists' positions, acquire critical intelligence by any means necessary, execute with extreme prejudice, and exit without a trace. In Tom Clancy's Splinter Cell, you are Sam Fisher, a highly trained secret operative of the NSA's secret arm: Third Echelon. Suit up with the latest classified field operative gear and weapons as you travel through diverse mission objectives. The world's future is in your hands, as cyber terrorism and international tensions are about to explode into WWIII.",
           year: '2002',
           createdAt: new Date(),
@@ -468,7 +468,7 @@ module.exports = {
         {
           title: 'Fallout 3',
           rating: '8.5 out of 10',
-          image: 'https://static.wikia.nocookie.net/fallout/images/c/c0/Fallout_3_cover_art.png/revision/latest?cb=20150327223914',
+          image: 'https://cdn.cloudflare.steamstatic.com/steam/apps/22300/capsule_616x353.jpg?t=1665072658',
           description: "Vault-Tec engineers have worked around the clock on an interactive reproduction of Wasteland life for you to enjoy from the comfort of your own vault. Included is an expansive world, unique combat, shockingly realistic visuals, tons of player choice, and an incredible cast of dynamic characters. Every minute is a fight for survival against the terrors of the outside world – radiation, Super Mutants, and hostile mutated creatures.",
           year: '2008',
           createdAt: new Date(),

@@ -10,5 +10,6 @@ Router.get(
   middleware.verifyToken,
   controller.CheckSession
 )
+Router.get('/users', middleware.verifyToken, controller.getAllUsers);
 
 module.exports = Router

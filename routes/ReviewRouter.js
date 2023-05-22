@@ -7,16 +7,16 @@ router.get('/', controller.GetAllReviews)
 // // Create a new review
 router.post(
   '/new_review/user/:user_id/listing/:listing_id',
-  middleware.stripToken,
-  middleware.verifyToken,
+  // middleware.stripToken,
+  // middleware.verifyToken,
   controller.CreateReview
 )
 
 // // update a review
 router.put(
   '/:review_id',
-  middleware.stripToken,
-  middleware.verifyToken,
+  // middleware.stripToken,
+  // middleware.verifyToken,
   controller.UpdateReview
 )
 

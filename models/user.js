@@ -12,7 +12,7 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       User.hasMany(models.Review, {
-        foreign: "userId",
+        foreignKey: "userId",
         as: "user_review",
         onDelete: 'CASCADE',
         onUpdate: 'CASCADE'
